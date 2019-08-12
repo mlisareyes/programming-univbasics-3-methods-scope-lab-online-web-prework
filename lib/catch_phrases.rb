@@ -14,5 +14,5 @@ def link
   puts status
 end
 
-def any_phrase(argument)
-  status = 
+def any_phrase(phrase)
+end
